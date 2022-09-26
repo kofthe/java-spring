@@ -1,0 +1,12 @@
+
+public class Product {
+	String name; 
+	Double unitPrice; 
+	String discountRate;
+	String imageUrl; 
+	String[] imageUrls; //bir çok resim olabilir. 
+	int UnitsInStock; 
+	
+	//domain odaklı çalışma yapılır. 
+	
+}

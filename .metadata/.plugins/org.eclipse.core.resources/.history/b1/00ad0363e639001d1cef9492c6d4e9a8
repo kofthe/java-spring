@@ -1,0 +1,25 @@
+
+public class Main {
+
+	
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		Product product1 = new Product() ; 
+		product1.setName("Deloghi Kahve Makinesi");
+		product1.setUnitPrice("25");
+		product1.setImageUrl("selamınaleyküm");
+		product1.setUnitsInStock(50);
+		Product product2 = new Product() ; 
+		
+		Product product3 = new Product() ; 
+			
+		
+		System.out.println("Ürün eklendi: " + product1.name);
+
+	}
+
+}

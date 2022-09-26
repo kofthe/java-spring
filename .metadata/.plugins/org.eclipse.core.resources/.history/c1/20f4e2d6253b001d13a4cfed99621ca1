@@ -1,0 +1,5 @@
+package com.uyarisal.sprringdemo.entity;
+
+public class Customer {
+
+}

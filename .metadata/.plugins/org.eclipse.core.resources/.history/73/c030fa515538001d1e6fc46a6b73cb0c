@@ -1,0 +1,8 @@
+package com.uyarisal.hibernate.demo.entity;
+
+import org.hibernate.annotations.Entity;
+
+@Entity
+public class Student {
+
+}

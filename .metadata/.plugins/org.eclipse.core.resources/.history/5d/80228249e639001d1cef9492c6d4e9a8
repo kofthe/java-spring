@@ -1,0 +1,17 @@
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+		
+		Product product1 = new Product() ; 
+		product1.name  ="kahve makinesi" ; 
+		product1.unitPrice = (double) 599 ; 
+		product1.imageUrl = "www.uyarisal.com" ; 
+		product1.UnitsInStock = 50 ; 
+		product1.discountRate = "5" ; 
+			
+
+	}
+
+}
